@@ -4,10 +4,10 @@ Hey there! I'm Mythili, a passionate Full Stack Developer who loves turning idea
 ### About Me 🌟
 I am currently diving deep into the world of React, CSS animations, and Framer Motion to create visually appealing and highly interactive web applications. I'm always on the lookout for new technologies and methodologies to enhance my skill set and build better user experiences. A constant curiosity drives my journey to learn and implement cutting-edge solutions in web development.
 
-#### Tech Enthusiast: Constantly exploring new tools and frameworks 🛠️
-#### Creative Coder: Love turning ideas into reality with code 💡 
-#### Lifelong Learner: Passionate about continuous learning and self-improvement 📚 
-#### Collaborative Worker: Enjoy working with others to create amazing projects 🤝 
+ **Tech Enthusiast**: Constantly exploring new tools and frameworks 🛠️ <br>
+ **Creative Coder**: Love turning ideas into reality with code 💡 <br>
+**Lifelong Learner**: Passionate about continuous learning and self-improvement 📚 <br>
+**Collaborative Worker**: Enjoy working with others to create amazing projects 🤝 <br>
 
 #### Connect with Me 🌐
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss any of my projects. I'm always open to new opportunities and exciting challenges. Let's build something amazing together! 🚀
