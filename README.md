@@ -9,5 +9,10 @@ I am currently diving deep into the world of React, CSS animations, and Framer M
 **Lifelong Learner**: Passionate about continuous learning and self-improvement 📚 <br>
 **Collaborative Worker**: Enjoy working with others to create amazing projects 🤝 <br>
 
+#### 🚀 Check Out My Portfolio
+Explore my full-stack projects, interactive applications, and creative coding adventures here:
+🌐 mythilik908.github.io/myportfolio
+
 #### Connect with Me 🌐
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss any of my projects. I'm always open to new opportunities and exciting challenges. Let's build something amazing together! 🚀
+
